@@ -65,3 +65,6 @@ typings/
 
 # built files
 dist/
+
+# OS Files
+**/.DS_Store

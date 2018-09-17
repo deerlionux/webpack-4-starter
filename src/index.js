@@ -1,1 +1,3 @@
-console.log('webpack-4-starter')
+export let hello = () => {
+  return 'webpack-4-starter'
+}
